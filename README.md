@@ -1,16 +1,37 @@
-# React + Vite
+Modern News Digital Magazine Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern digital news and magazine platform built using React, Vite, Tailwind CSS, and React Router.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Modern news and magazine interface
+- Home page for browsing articles
+- Article details page
+- Bookmarks page
+- Dark mode interface
 
-## React Compiler
+Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- Tailwind CSS
+- React Router
+- JavaScript
 
-## Expanding the ESLint configuration
+Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+Build the project:
+
+npm run build
+
+Author
+
+Manya Jain
